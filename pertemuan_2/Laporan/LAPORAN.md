@@ -218,14 +218,17 @@ Program diatas merupakan contoh penggunaan Fungsi dan Prosedur. Pertama tama, pr
 ### 1. Diketahui 2 buah matriks 3x3 seperti dibawah ini : 
 matriksA =
 
-| 7   | 12  | 22  |
+|   |   |   |
 | --- | --- | --- |
+| 7   | 12  | 22  |
 | 31  | 6   | 41  |
 | 15  | 19  | 36  |
+
 matriksB = 
 
-| 11  | 34  | 7   |
+|   |   |    |
 | --- | --- | --- |
+| 11  | 34  | 7   |
 | 3   | 25  | 41  |
 | 5   | 18  | 33  |
 
