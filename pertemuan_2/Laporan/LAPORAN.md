@@ -408,6 +408,7 @@ int main() {
 ```
 ### Output Unguided 2 :
 ![](gambar/unguided_2.png)
+
 Program diatas digunakan untuk mencari sebuah luas dan keliling persegi panjang. Pada program, dibuat variabel panjang, lebar, luas, dan keliling, serta dua pointer yaitu ptrPanjang dan ptrLebar yang menunjuk ke panjang dan lebar. Program pertama kali menampilkan nilai awal panjang dan lebar. Kemudian fungsi luasPersegiPanjang dan kelilingPersegiPanjang dipanggil dengan pointer sebagai untuk menghitung luas dan keliling, hasilnya disimpan pada variabel luas dan keliling. Selanjutnya nilai panjang dan lebar diubah melalui pointer, terus kedua fungsi tersebut dipanggil lagi untuk menghitung ulang luas dan keliling berdasarkan nilai baru. Program menampilkan hasil perhitungan sebelum dan sesudah perubahan nilai.
 ## Kesimpulan
 Kesimpulan yang dapat diambil adalah pada modul ini belajar mengenai beberapa array, pointer, fungsi dan prosedur. Ternyata array terdapat beberapa jenis, pada modul ini dijelaskan bahwa array terdapat array satu dimensi dan dua dimensi. Array dua dimensi merupakan array yang lebih kompleks dibandingkan dengan array satu dimensi. Array memudahkan pengelolaan data dengan tipe yang sama, baik dalam bentuk satu dimensi maupun dua dimensi. Kemudian pointer memungkinkan program untuk mengakses dan memodifikasi nilai variabel secara langsung melalui alamat memori. Fungsi dan prosedur membantu membuat program menjadi lebih terstruktur, modular, dan mudah dibaca, serta memudahkan penggunaan kembali kode. 
