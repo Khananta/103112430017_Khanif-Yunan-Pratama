@@ -178,10 +178,10 @@ int main() {
     return 0;
 }
 ```
-### Output
 ##### Output 1
-![](gambar_1.png)
-#### Output 2
+![](gambar/gambar_1.png)
+
+##### Output 2
 ![](gambar/gambar_2.png)
 Program ini berfungsi untuk menginput dan menampilkan data maksimal 10 mahasiswa, yang terdiri dari nama, NIM, nilai UTS, UAS, dan tugas. Setiap nilai yang dimasukkan akan diolah menggunakan rumus perhitungan nilai akhir yaitu 0.3 × UTS + 0.4 × UAS + 0.3 × Tugas. Selain itu, program juga membatasi jumlah input agar tidak kurang dari 1 dan tidak lebih dari 10 mahasiswa. 
 ### 2. Membuat ADT
@@ -264,7 +264,7 @@ int main() {
     return 0;
 }
 ```
-### Output Unguided :
+##### Output :
 ![](gambar/gambar_3.png)
 Program di atas merupakan contoh penerapan Abstract Data Type dalam C++ yang digunakan untuk mengelola data pelajaran. Struktur pelajaran memiliki dua atribut, yaitu namapel dan kodepel. Fungsi create_pelajaran() digunakan untuk membuat data pelajaran baru dengan nilai yang ditentukan, sedangkan tampil_pelajaran() berfungsi menampilkan data tersebut ke layar. Program utama (main.cpp) menggunakan kedua fungsi untuk membuat dan menampilkan data pelajaran "Struktur Data" dengan kode "STD".
 ### 3. Program Array
@@ -329,8 +329,8 @@ int main() {
     return 0;
 }
 ```
-### Output Unguided 3 :
-![](gambar_4.png)
+##### Output:
+![](gambar/gambar_4.png)
 Program di atas merupakan program array 2 dimensi dan pointer dalam C++. Program ini menggunakan dua array 3x3 dan dua pointer integer. Fungsi tampilkanArray() digunakan untuk menampilkan isi array ke layar. Fungsi tukarPosisi() berfungsi untuk menukarkan elemen pada posisi tertentu antara dua array, sedangkan fungsi tukarPointer() digunakan untuk menukarkan nilai dari dua variabel yang ditunjuk oleh pointer. Pada fungsi main(), dua array digunakan dan ditampilkan sebelum dan sesudah penukaran elemen dilakukan. Selain itu, dua variabel a dan b juga ditukar nilainya menggunakan pointer.
 ## Kesimpulan
 Kesimpulannya adalah dala ADT akan dilakukan pemecahan, program akan dipisah menjadi beberapa bagian. Perlu digaris bawahi bahwa ADT berbeda dengan OOP. ADT mempermudah dalam pengembangan program. 
