@@ -683,7 +683,7 @@ Pada main.cpp
 Menambahkan fungsi findElm karena program diminta untuk mencari elemen dalam doubly linked list berdasarkan nomor polisi kendaraan tertentu.  Fungsi ini bekerja dengan mencari setiap elemen dari awal hingga akhir, kemudian membandingkan nopol pada setiap elemen dengan nopol yang dicari. Jika ditemukan, fungsi mengembalikan alamat node tersebut agar bisa diakses dan ditampilkan datanya.  Jika tidak ada yang cocok, fungsi mengembalikan Nil sebagai tanda bahwa data tidak ditemukan.
 
 ### Output Perintah 2 :
-![[Semester 3/pertemuan_6/gambar/gambar2.png]]
+![](gambar/gambar2.png)
 
 ### 3. Perintah 3
 Untuk bisa menghapus, menambahkan beberapa perintah yaitu:
